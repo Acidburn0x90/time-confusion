@@ -1,0 +1,24 @@
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.idea/
+.vscode/
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Experiment output (regenerable, bulky)
+runs/
+
+# Secrets / env
+.env
+*.key
+
+# Tooling
+graphify-out/
+.opencode/log/
